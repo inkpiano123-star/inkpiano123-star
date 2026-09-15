@@ -7,3 +7,9 @@
 <h3>Software</h3>
 
 <img src="software.png" width="800">
+
+<h3>Website</h3>
+
+<a href="https://ar0wz.edgeone.dev/">
+  <img src="website.png" width="300">
+</a>
