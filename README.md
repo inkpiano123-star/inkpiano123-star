@@ -11,5 +11,5 @@
 <h3>Website</h3>
 
 <a href="https://ar0wz.edgeone.dev/">
-  <img src="website.jpg" width="300">
+  <img src="website.jpg" width="150">
 </a>
